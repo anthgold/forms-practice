@@ -5,3 +5,8 @@
 #letter {
   padding-top: 30px;
 }
+
+.name {
+  font-size: 25pt;
+  font-family: fantasy;
+}
